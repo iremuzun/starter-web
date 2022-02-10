@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and then Pull Requests for review.
 ###Copyright
 
-2022 Git Practice
+2022 Git Practice All rights reserved
